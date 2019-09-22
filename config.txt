@@ -1,4 +1,4 @@
-﻿token= NjI1MjE4NTA5MzI4MzUxMjM0.XYc4qw.hB78gq78EKfEAi8ehoT_ofStvmQ
+﻿token= 
 owner= 571938961497260052
 prefix= b
 game= brish
